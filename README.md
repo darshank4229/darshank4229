@@ -42,19 +42,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 
----
-
 ## 📊 GitHub Stats
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f03b9bd-b4d3-41d3-a770-e133e9364780" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshank4229&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshank4229&theme=tokyonight" />
-</p>
-
----
 
 ## 📌 Featured Projects
 🔹 **Employee Management System** – Spring Boot REST API with CRUD operations  
