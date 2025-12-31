@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Darshan%20Gowda&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=Darshan%20Gowda&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20Java%20Developer&descSize=18&descAlign=60&animation=fadeIn" />
 </p>
+
 
 <h2 align="center">👋 Hi, I'm K Darshan Gowda</h2>
 <h4 align="center">🚀 Java Backend Developer | Spring Boot | Microservices</h4>
