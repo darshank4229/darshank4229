@@ -18,7 +18,7 @@
 - 🔭 Currently working on **Java & Spring Boot real-world projects**
 - 🌱 Learning **System Design & Advanced Backend Concepts**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, SQL**
-- 📫 Reach me at **yourmail@gmail.com**
+- 📫 Reach me at **darshanshyla23@gmail.com**
 
 ---
 
