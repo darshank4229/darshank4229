@@ -19,6 +19,13 @@
 - 🌱 Learning **System Design & Advanced Backend Concepts**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, SQL**
 - 📫 Reach me at **darshanshyla23@gmail.com**
+- <h4 align="center">🚀 Full Stack Java Developer | Spring Boot | REST APIs</h4>
+<p align="center">
+  🌐 <a href="https://my-portfolio-two-taupe-99.vercel.app/" target="_blank">
+    <b>View My Portfolio</b>
+  </a>
+</p>
+
 
 ---
 
@@ -64,6 +71,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+<a href="https://my-portfolio-two-taupe-99.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
