@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">👋 Hi, I'm Darshan Gowda</h2>
+<h2 align="center">👋 Hi, I'm  K Darshan Gowda</h2>
 <h4 align="center">🚀 Full Stack Java Developer | Spring Boot | REST APIs</h4>
 
 <p align="center">
