@@ -63,6 +63,7 @@
 ---
 
 ## 🤝 Connect With Me
+<div>
 <p align="center">
   <a href="https://www.linkedin.com/in/darshan-k-4229d23" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -74,6 +75,8 @@
 <a href="https://my-portfolio-two-taupe-99.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+</div>
+
 
 ---
 
