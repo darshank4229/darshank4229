@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Darshan Gowda</h1>
+<h3 align="center">Full Stack Developer | Java | Spring Boot</h3>
 
-<!--
-**darshank4229/darshank4229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 Working on Java & Spring Boot projects
+- 🌱 Learning advanced backend development
+- 💬 Ask me about Java, REST APIs, SQL
+- 📫 Email: yourmail@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- HTML, CSS, JavaScript
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=darshank4229&show_icons=true)
+
