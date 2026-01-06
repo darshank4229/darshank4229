@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff
-&height=220&section=header&text=Darshan%20Gowda&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=220&section=header&text=Darshan%20Gowda&fontSize=40&fontColor=ffffff" />
 </p>
+
 
 
 
