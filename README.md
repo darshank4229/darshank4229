@@ -13,17 +13,17 @@
 </p>
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshank4229&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=darshank4229&label=Profile%10Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
+
 
 ## 🚀 About Me
 
 I’m a **Java Backend Developer** specializing in building **scalable, secure, and high-performance web applications** using **Spring Boot** and **Microservices Architecture**.  
 I enjoy designing **clean backend systems**, securing APIs, and exploring **cloud-native technologies**.
 
-- 🔭 Currently learning: **Microservices, Spring Security, Docker, Kubernetes, Kafka, Redis**
+- 🔭 Currently learning: **Microservices, Spring Security, Redis**
 - 💡 Interested in: **Scalable architectures, API security, distributed systems**
 - 💬 Ask me about: **Java, Spring Boot, Spring Security, REST APIs**
 - 📫 Reach me at: **darshanshyla23@gmail.com**
