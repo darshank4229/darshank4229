@@ -12,10 +12,7 @@
   <a href="mailto:darshanshyla23@gmail.com"><b>darshanshyla23@gmail.com</b></a>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Profile%20Views-1000+-blue?style=for-the-badge" />
-
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshank4229&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> </p>
 
 
 
