@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 I’m a **Java Backend Developer** specializing in building **scalable, secure, and high-performance web applications** using **Spring Boot** and **Microservices Architecture**.  
-I enjoy designing **clean backend systems**, securing APIs, and exploring **cloud-native technologies**.
+I enjoy designing **clean backend systems**, securing APIs.
 
 - 🔭 Currently learning: **Microservices, Spring Security, Redis**
 - 💡 Interested in: **Scalable architectures, API security, distributed systems**
@@ -45,9 +45,8 @@ I enjoy designing **clean backend systems**, securing APIs, and exploring **clou
 
 - Core & Advanced Java  
 - Spring Boot, Spring MVC, Spring Data JPA  
-- Microservices Architecture  
 - REST APIs & Service Communication  
-- API Security: **OAuth2, JWT, RBAC**
+- API Security: **OAuth2, JWT
 
 ---
 
@@ -83,7 +82,7 @@ I enjoy designing **clean backend systems**, securing APIs, and exploring **clou
 
 ---
 
-💡 *I enjoy solving complex backend challenges, playing chess, and exploring cloud & DevOps technologies.*
+💡 *I enjoy solving complex backend challenges, Singing Songs, and exploring cloud & DevOps technologies.*
 
 <p align="center">
 🚀 <b>Let’s build something amazing together!</b>
